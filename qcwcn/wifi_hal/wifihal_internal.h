@@ -34,7 +34,6 @@
  * purposes of initialization, rtt and gscan.
  */
 
-#include "wifi_hal.h"
 #include "list.h"
 #include "sys/un.h"
 

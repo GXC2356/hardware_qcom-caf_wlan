@@ -15,7 +15,6 @@
  */
 
 #include <pthread.h>
-#include "wifi_hal.h"
 #include "common.h"
 
 #ifndef __WIFI_HAL_SYNC_H__

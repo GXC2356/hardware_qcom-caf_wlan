@@ -38,7 +38,6 @@
 
 #include <utils/Log.h>
 
-#include "wifi_hal.h"
 #include "common.h"
 #include "cpp_bindings.h"
 #include "wifihal_vendorcommand.h"

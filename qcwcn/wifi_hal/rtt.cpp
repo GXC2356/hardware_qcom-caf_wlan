@@ -36,7 +36,6 @@
 #include "common.h"
 #include "cpp_bindings.h"
 #include "rtt.h"
-#include "wifi_hal.h"
 #include "wifihal_internal.h"
 
 /* Implementation of the API functions exposed in rtt.h */

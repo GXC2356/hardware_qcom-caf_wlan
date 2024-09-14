@@ -82,7 +82,6 @@
 
 #define LOG_TAG  "WifiHAL"
 
-#include "wifi_hal.h"
 #include "wifi_hal_ctrl.h"
 #include "common.h"
 #include "cpp_bindings.h"

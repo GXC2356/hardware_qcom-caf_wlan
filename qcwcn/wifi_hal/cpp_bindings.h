@@ -22,7 +22,6 @@
 #ifndef __WIFI_HAL_CPP_BINDINGS_H__
 #define __WIFI_HAL_CPP_BINDINGS_H__
 
-#include "wifi_hal.h"
 #include "common.h"
 #include "sync.h"
 
