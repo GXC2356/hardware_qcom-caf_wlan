@@ -40,7 +40,6 @@
 #include "nl80211_copy.h"
 #include <ctype.h>
 
-#include "wifi_hal.h"
 #include "common.h"
 #include "cpp_bindings.h"
 #include "vendor_definitions.h"
